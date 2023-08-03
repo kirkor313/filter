@@ -1,0 +1,17 @@
+.filters {
+  display: flex;
+  row-gap: 10px;
+  margin-bottom: 30px;
+}
+
+button {
+  margin-right: 10px;
+  font-size: 18px;
+  background-color: white;
+  padding: 10px 20px;
+}
+
+.active {
+  background: black;
+  color: white;
+}
